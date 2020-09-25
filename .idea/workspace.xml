@@ -9,11 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,18 +167,26 @@
       <option name="project" value="LOCAL" />
       <updated>1601009151284</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I added the intent to start info activity&#10;i added the create map intent">
+      <created>1601010017176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601010017176</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I added the intent to start info activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="I added the intent to start info activity" />
+    <MESSAGE value="I added the intent to start info activity&#10;i added the create map intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added the intent to start info activity&#10;i added the create map intent" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1601009149246">
+    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1601010013040">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601009149246" />
+    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601010013040" />
     <state width="1322" height="160" key="GridCell.Tab.0.bottom" timestamp="1601008384263">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -199,10 +203,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="160" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601008384263" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601009157003">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601010020233">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601009157003" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601010020233" />
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1601005436269">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
