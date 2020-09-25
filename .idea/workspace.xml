@@ -165,10 +165,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="I added the intent to start info activity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1601008932433">
+    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1601009122928">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601008932433" />
+    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601009122928" />
     <state width="1322" height="160" key="GridCell.Tab.0.bottom" timestamp="1601008384263">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -185,6 +185,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1322" height="160" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601008384263" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601009061454">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601009061454" />
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1601005436269">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
