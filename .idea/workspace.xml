@@ -9,7 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601150902175</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="I added the intent to start info activity&#10;i added the create map intent">
+      <created>1601151031952</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601151031952</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -209,10 +219,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="I added the intent to start info activity&#10;i added the create map intent" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1601150898575">
+    <state x="190" y="0" key="CommitChangelistDialog2" timestamp="1601151030559">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601150898575" />
+    <state x="190" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601151030559" />
     <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1601032522285">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -229,10 +239,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601032522285" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601150916116">
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1601151036386">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601150916116" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1601151036386" />
     <state x="378" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1601150339301">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
